@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.h1{
+    font-size: 48px;
+    font-weight: 700px;
+    margin-top: 76px;
+   text-align: center;
+}
+
+.secti{
+    margin-top: 75px;
+    display: flex;
+    margin-left: 80px;
+}
+.box{
+    font-size: 36px;
+    font-weight: 700px;
+    width: 500px;
+    margin-left: 150px;
+    
+}
+
+.box p{
+    margin-top: 62px;
+    font-family: "Mulish", sans-serif;
+}
+
+.but{
+    width: 201.92px;
+    height: 56.74px;
+    border: 1px solid #458FF6;
+    border-radius: 55px;
+    color: #458FF6;
+    font-family: "Mulish", sans-serif;
+}
+.box2{
+    width: 330px;
+    font-family: "Mulish", sans-serif;
+}
+
+.kartochki{
+   margin-top: 110px;
+  margin-left: 100px; 
+  display: flex;
+  gap: 80px;
+   
+}
+
+.h2{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 150px;
+    font-family: "Mulish", sans-serif;
+}
+
+
+.png{
+    margin-top: 20px;
+}
+
+.h3{
+margin-top: 30px;
+}
+
+.text{
+    margin-top: 18px;
+    font-size:17px;
+    font-weight: 600px;
+    color: #4089ED;
+}
+
+.button{
+    width: 200px;
+    height: 56.74px;
+    border: 1px solid #458FF6;
+    border-radius: 55px;
+    color: #4089ED;
+    margin-top: 100px;
+   margin-left: -350px;
+}
+
+
+
+
+
+.footer{
+    background-color:#5a98f2;
+    width: 1349px;
+    height: 300px;
+    color: white;
+    margin-top: 200px;
+}
+.logo2{
+    margin-top: 100px;
+    margin-left: 130px;
+}
+.logoo2{
+    margin-top: -34px;
+    margin-left: 180px;
+    color: white;
+}
+.text15{
+    width: 250px;
+    margin-left: 130px;
+    margin-top: 30px;
+    color: gainsboro;
+}
+.company{
+    margin-left: 660px;
+    margin-top: -130px;
+}
+.about{
+    color: gainsboro;
+    margin-left: 660px;
+    margin-top: 30px;
+}
+.apps{
+    margin-left: 660px;
+    margin-top: 10px;
+    color: gainsboro;
+}
+.region{
+    margin-left: 860px;
+    margin-top: -100px;
+}
+.indonesia{
+    margin-left: 860px;
+    margin-top: 30px;
+    color: gainsboro;
+}
+.singapore{
+    margin-left: 860px;
+    margin-top: 10px ;
+    color: gainsboro;
+}
+.help{
+    margin-left: 1040px;
+    margin-top: -100px;
+}
+.center{
+    margin-left: 1040px;
+    margin-top: 30px; 
+    color: gainsboro;
+}
+.contact{
+    margin-left: 1040px;
+    color: gainsboro;
+    margin-top: 10px;
+}
